@@ -1,9 +1,15 @@
-# free_flutter_banking_ui_kit
- Full Flutter Banking UI Kit
+# 🔥🔥 Flutter Full Banking UI Kit 🔥🔥
 
-##Made With Flutter 2.5 with null safety
+Flutter project for creating banking application.
 
-## ScreenShoots
+Star⭐ the repo if you like what you like more stuff on flutter 😉.
+
+## ✨ Requirements
+* Any Operating System (ie. MacOS X, Linux, Windows)
+* Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+* A little knowledge of Dart and Flutter.
+
+## Some Screenshots For You 💖
 
 <img height="480px" src="screenshots/image1.jpg">|
 <img height="480px" src="screenshots/image2.jpg">
