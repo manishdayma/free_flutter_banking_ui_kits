@@ -5,7 +5,7 @@
 
 ## ScreenShoots
 
-<img height="480px" src="screenshots/image1.jpg">
+<img height="480px" src="screenshots/image1.jpg">|
 <img height="480px" src="screenshots/image2.jpg">
 <img height="480px" src="screenshots/image3.jpg">
 <img height="480px" src="screenshots/image4.jpg">
